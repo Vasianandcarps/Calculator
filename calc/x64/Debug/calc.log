@@ -1,0 +1,10 @@
+﻿  calc.cpp
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(76,45): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'UINT'
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(76,45): warning C4302: 'type cast': truncation from 'HMENU' to 'UINT'
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(83,45): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'UINT'
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(83,45): warning C4302: 'type cast': truncation from 'HMENU' to 'UINT'
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(102,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(316,23): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(325,51): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\Admin\source\repos\calc\calc\calc.cpp(407,51): warning C4101: 'e': unreferenced local variable
+  calc.vcxproj -> C:\Users\Admin\source\repos\calc\x64\Debug\calc.exe
